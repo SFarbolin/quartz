@@ -33,14 +33,20 @@ export const defaultContentPageLayout: PageLayout = {
           grow: true,
         },
         { Component: Component.Darkmode() },
-        { Component: Component.ReaderMode() },
+//        { Component: Component.ReaderMode() },
       ],
     }),
-    Component.Explorer(),
+//    Component.Explorer(),
+    Component.RecentNotes({
+      title: "Recent Updates",
+      limit: 4,
+//      filter: (f) =>
+//       f.slug!.startsWith("posts/") && f.slug! !== "posts/index" && !f.frontmatter?.noindex,
+    }),
   ],
   right: [
     Component.Graph(),
-    Component.DesktopOnly(Component.TableOfContents()),
+//    Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
   ],
 }
