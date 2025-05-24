@@ -1,0 +1,36 @@
+---
+aliases:
+  - How this site works
+title: How this site works
+---
+# *This site is weird. Why is it like this?*
+I'm making this site with the idea of networked thought. Instead of carefully sorted categories and curated menu trees, here we have more of an interconnected web of nodes.
+
+Have you ever gone down a wikipedia rabbit hole, following links from page to page until you can't even remember where you started? That's how I want the experience here to be. So poke around! See what you can find.
+
+I know there's not much now (May 8, 2025), but I hope there will be more to explore soon, and more added all the time.
+# *Why is it kind of stark and ugly?*
+I'm still using default settings for the layout, fonts, colors, etc. I'd like to tweak the look and feel over time to make it mine. That's part of the evolution. For now, I'm just excited to finally have it up and running.
+# *What's that weird graph thing?*
+That's the graph view! Each dot is a page, and the lines show links between them. It will always center on the current page, but you can expand it, zoom in, drag stuff around, hover over dots to see page names, and click to jump to any page in the network!
+Go ahead and pay around with it!
+# *How did you make this weird website?*
+Software I'm using:
+- [Obsidian](https://obsidian.md/) for editing content
+- [Resilio Sync](https://www.resilio.com/) to sync between my devices
+- [docker-git-pull-push](https://github.com/skwinnik/docker-git-pull-push) with a lot of my own customizing (which I'll upload as a fork if I get around to cleaning up the code)
+	- resize images
+	- remove EXIF data from images
+	- push changes to [GitHub](https://github.com)
+- [Quartz](https://quartz.jzhao.xyz/) running on [GitHub Pages](https://pages.github.com/) to convert the markdown into html for web viewing.
+- [goatcounter](https://www.goatcounter.com/) for super basic, privacy-respecting site analytics.
+# *That seems... unnecessarily complicated*
+Yeahhh, it is. It would've been a lot easier to just pay for [Obsidian Sync](https://obsidian.md/stnc) and [Obsidian Publish](https://obsidian.md/publish). But if I can host it myself and not pay for a service, I'm gonna do that.
+And yes, it is a lot more work. (Shoutout [r/selfhosted](https://www.reddit.com/r/selfhosted/))
+# *Why make it this way?*
+The upshot of this veritable [Rube Goldberg machine](https://en.wikipedia.org/wiki/Rube_Goldberg_machine) of software is that I can edit the content of this site on my phone, desktop, or laptop at any time, and within minutes those changes are reflected on the live site. 
+That makes working on this site *extremely* easy, and hopefully that means I'll actually update it somewhat frequently.
+
+Fingers crossed.
+
+That also means there will inevitably be typos, broken links, and the like, but fixing them also becomes trivial.
