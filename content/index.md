@@ -20,6 +20,8 @@ I should also say, and this is probably already immediately obvious to you, but 
 Thanks for visiting my website!
 -Sean
 
+Maybe you want to start exploring by looking at some of my [[tags/projects|projects]].
+
 Find me elsewhere:
 [Bluesky](https://bsky.app/profile/farbolin.me)    <- Where I'm most active at the moment
 [YouTube](https://www.youtube.com/makeronthemove)    <- I might upload again someday
