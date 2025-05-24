@@ -38,8 +38,9 @@ export const defaultContentPageLayout: PageLayout = {
     }),
 //    Component.Explorer(),
     Component.RecentNotes({
+      showTags: false,
       title: "Recent Updates",
-      limit: 4,
+      limit: 3,
 //      filter: (f) =>
 //       f.slug!.startsWith("posts/") && f.slug! !== "posts/index" && !f.frontmatter?.noindex,
     }),
