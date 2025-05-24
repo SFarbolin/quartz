@@ -36,8 +36,6 @@ export const defaultContentPageLayout: PageLayout = {
       showTags: false,
       title: "Recent Updates",
       limit: 3,
-//      filter: (f) =>
-//       f.slug!.startsWith("posts/") && f.slug! !== "posts/index" && !f.frontmatter?.noindex,
     }),
   ],
   right: [
@@ -61,6 +59,11 @@ export const defaultListPageLayout: PageLayout = {
         },
         { Component: Component.Darkmode() },
       ],
+    }),
+	Component.RecentNotes({
+      showTags: false,
+      title: "Recent Updates",
+      limit: 3,
     }),
   ],
   right: [],
