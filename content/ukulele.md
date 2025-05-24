@@ -1,6 +1,4 @@
 ---
-aliases:
-  - ukulele
 title: Ukulele
 description: "Turning a thrifted mass produced ukulele into something special."
 tags:

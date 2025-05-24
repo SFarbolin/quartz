@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Digital Garden
-  - digital garden
 title: Digital Garden
 ---
 A *digital garden* is a kind of personal site where pages are added and updates in a organic, nonlinear way.
