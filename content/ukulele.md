@@ -12,7 +12,6 @@ It appears to have had nail polish spilled on it. The strings were covered in it
 ![[20250517_ukulelebefore1.jpg|250]]![[20250517_ukulelebefore2.jpg|250]]
 
 Today, while poking around the shop, I decided to start sanding it. I managed to get most of a first pass with 80 grit done before I ran out of energy for today.
-
 ![[20250517_ukuleleprogress2.jpg|250]]![[20250517_ukuleleprogress1.jpg|250]]
 
 ## How it's going (so far)
@@ -30,4 +29,5 @@ I am forgoing wearing a mask because of the casual nature of this "project", but
 
 ###### 2025-05-24
 Almost done removing the paint with the 120 grit. Each of these sanding sessions is anywhere between 30 minutes to 2 hours of hanging out on the porch whenever I feel like it. It's nice! 
-![[PXL_20250525_034922909.jpg]]
+![[20250525_ukuleleprogress1.jpg|250]]![[20250525_ukuleleprogress2.jpg|250]]
+
