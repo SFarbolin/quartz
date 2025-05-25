@@ -27,3 +27,6 @@ Done with the 80 grit! The top layer of whatever paint was on there was a real p
 I've got the ukulele and some sandpaper scraps stashed on the back porch, so I can chip away at it any time I'm sitting outside enjoying the weather and want something to do with my hands. It's very satisfying.
 I am forgoing wearing a mask because of the casual nature of this "project", but I do keep a moist rag handy and frequently wipe away the dust. Not the best solution, but good enough for light work I'm hoping.
 ![[20250523_ukuleleprogress1.jpg|250]]![[20250523_ukuleleprogress2.jpg|250]]
+
+###### 2025-05-24
+Almost done with the 120 grit
