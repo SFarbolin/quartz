@@ -1,5 +1,7 @@
 ---
 title: Digital Garden
+tags:
+  - musings
 ---
 A *digital garden* is a kind of personal site where pages are added and updates in a organic, nonlinear way.
 

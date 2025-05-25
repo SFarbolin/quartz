@@ -32,11 +32,13 @@ export const defaultContentPageLayout: PageLayout = {
       ],
     }),
 //    Component.Explorer(),
-    Component.RecentNotes({
-      showTags: false,
-      title: "Recent Updates",
-      limit: 3,
-    }),
+    Component.DesktopOnly(
+       Component.RecentNotes({
+         showTags: false,
+         title: "Recent Updates",
+         limit: 3,
+       }),
+    )
   ],
   right: [
     Component.Graph(),
@@ -60,11 +62,13 @@ export const defaultListPageLayout: PageLayout = {
         { Component: Component.Darkmode() },
       ],
     }),
+     Component.DesktopOnly(
 	Component.RecentNotes({
-      showTags: false,
-      title: "Recent Updates",
-      limit: 3,
-    }),
+           showTags: false,
+           title: "Recent Updates",
+           limit: 3,
+        }),
+     )
   ],
   right: [],
 }

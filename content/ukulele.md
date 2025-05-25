@@ -12,7 +12,6 @@ It appears to have had nail polish spilled on it. The strings were covered in it
 ![[20250517_ukulelebefore1.jpg|250]]![[20250517_ukulelebefore2.jpg|250]]
 
 Today, while poking around the shop, I decided to start sanding it. I managed to get most of a first pass with 80 grit done before I ran out of energy for today.
-
 ![[20250517_ukuleleprogress2.jpg|250]]![[20250517_ukuleleprogress1.jpg|250]]
 
 ## How it's going (so far)
@@ -27,3 +26,8 @@ Done with the 80 grit! The top layer of whatever paint was on there was a real p
 I've got the ukulele and some sandpaper scraps stashed on the back porch, so I can chip away at it any time I'm sitting outside enjoying the weather and want something to do with my hands. It's very satisfying.
 I am forgoing wearing a mask because of the casual nature of this "project", but I do keep a moist rag handy and frequently wipe away the dust. Not the best solution, but good enough for light work I'm hoping.
 ![[20250523_ukuleleprogress1.jpg|250]]![[20250523_ukuleleprogress2.jpg|250]]
+
+###### 2025-05-24
+Almost done removing the paint with the 120 grit. Each of these sanding sessions is anywhere between 30 minutes to 2 hours of hanging out on the porch whenever I feel like it. It's nice! 
+![[20250525_ukuleleprogress1.jpg|250]]![[20250525_ukuleleprogress2.jpg|250]]
+
