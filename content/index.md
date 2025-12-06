@@ -5,7 +5,7 @@ aliases:
 ---
 **Hi there! I'm Sean Farbolin.**
 *I like to learn, tinker, make stuff, and [[play]].*
-I'm currently working as a [[typewriter-apprenticeship|typewriter repair apprenctice]] at the [Bremerton Typewriter Company](https://typespec.com/). 
+I'm  as a [[typewriter-apprenticeship|typewriter repair apprenctice]] at the [Bremerton Typewriter Company](https://typespec.com/). 
 
 Welcome!
 You may have come here from my instagram or heard me on the [Making Problems to Solve](https://podcasts.apple.com/us/podcast/making-problems-to-solve/id1625999514) podcast.
