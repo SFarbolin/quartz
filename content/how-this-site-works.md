@@ -18,9 +18,10 @@ Go ahead and pay around with it!
 Software I'm using:
 - [Obsidian](https://obsidian.md/) for editing content
 - [Resilio Sync](https://www.resilio.com/) to sync between my devices
-- [docker-git-pull-push](https://github.com/skwinnik/docker-git-pull-push) with a lot of my own customizing (which I'll upload as a fork if I get around to cleaning up the code)
-	- resize images
-	- remove EXIF data from images
+- [docker-git-exif-resize](https://github.com/artefacio/docker-git-exif-resize), a fork of someone else's docker container that I customized to add some additional functions
+	- pull from [GitHub](https://github.com) repository
+	- remove EXIF data from images (my addition)
+	- resize images (my addition)
 	- push changes to [GitHub](https://github.com)
 - [Quartz](https://quartz.jzhao.xyz/) running on [GitHub Pages](https://pages.github.com/) to convert the markdown into html for web viewing.
 - [goatcounter](https://www.goatcounter.com/) for super basic, privacy-respecting site analytics.
