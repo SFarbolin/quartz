@@ -5,12 +5,13 @@ aliases:
 ---
 **Hi there! I'm Sean Farbolin.**
 *I like to learn, tinker, make stuff, and [[play]].*
-I'm  as a [[typewriter-apprenticeship|typewriter repair apprenctice]] at the [Bremerton Typewriter Company](https://typespec.com/). 
 
 Welcome!
 You may have come here from my instagram or heard me on the [Making Problems to Solve](https://podcasts.apple.com/us/podcast/making-problems-to-solve/id1625999514) podcast.
 
-I only just got this site up and working [[how-this-site-works|the way I want it]] to on May 8th, 2025. So it's still brand new!
+I recently completed a [[typewriter-apprenticeship|typewriter repair apprenticeship]] at the [Bremerton Typewriter Company](https://typespec.com/). I plan to add lots more photos and details of my time there.
+
+I got this site up and working [[how-this-site-works|the way I want it]] to on May 8th, 2025.
 
 I've set it up as a [[digital-garden|digital garden]] that I can edit on the fly. Which means instead a super clean polished site, I'm starting very simply and growing it over time. It may be sparse now, but I'm trying to add to it. I hope you check back in from time to time to see how it evolves!
 
