@@ -31,3 +31,4 @@ I am forgoing wearing a mask because of the casual nature of this "project", but
 Almost done removing the paint with the 120 grit. Each of these sanding sessions is anywhere between 30 minutes to 2 hours of hanging out on the porch whenever I feel like it. It's nice! 
 ![[20250525_ukuleleprogress1.jpg|250]]![[20250525_ukuleleprogress2.jpg|250]]
 
+![[20250808_ukuleleprogress.jpg]]![[20250809_ukuleleprogress1.jpg]]![[20250809_ukuleleprogress2.jpg]]![[20250824_ukuleleprogress.jpg]]![[20250907_ukuleleprogress2.jpg]]![[20250907_ukuleleprogress1.jpg]]![[20250907_ukuleleprogress3.jpg]]
