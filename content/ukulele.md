@@ -7,7 +7,7 @@ tags:
 ## How it started:
 ###### 2025-05-17
 
-I picked up this [[20250517_ukuleleproductpage.png|Amahi Under the Sea Soprano Ukulele]] at a thrift store for $8 yesterday.
+I picked up this [[20250517_ukuleleproductpage.jpg|Amahi Under the Sea Soprano Ukulele]] at a thrift store for $8 yesterday.
 It appears to have had nail polish spilled on it. The strings were covered in it and there were spots and smudges all over the whole thing. I removed a lot of it with acetone before thinking to take before photos.
 ![[20250517_ukulelebefore1.jpg|250]]![[20250517_ukulelebefore2.jpg|250]]
 
