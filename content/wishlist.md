@@ -4,6 +4,7 @@ title: Wish List
 description: Literally just stuff I want
 tags:
 ---
+Apparently I'm hard to shop for, so here's a bunch of stuff I want.
 # General
 - Old brass instruments of pretty much any kind.
 	- I am specifically on the lookout for a small humidity gauge, like one from a humidor, to use for a Kintsugi Muro (curing box). Most of the ones I find for sale are brass colored plastic, which would work, but real brass and glass would be ideal.
@@ -15,7 +16,9 @@ tags:
 - Honing Guide for sharpening planer blades and chisels
 	- I got nice sharpening stones, and hand sharpening is fine for knives, but planes and chisels work best with precise angles that require a guide. There's a bunch of versions, but something like [this](https://www.amazon.com/Chisel-Sharpening-Honing-Chisels-Fixture/dp/B0D1XRR8N7) or [this](https://www.amazon.com/Saker-Honing-Guide-Upgraded-Woodworking-Chisels/dp/B0C5C44DDJ). Ones that look like [this](https://www.amazon.com/ATLIN-Honing-Guide-Chisels-Planer/dp/B07C9X3F98) are real popular, but the narrow roller means it's easy to accidentally tilt it and mess up your angle when sharpening.
 - 3D pen
-	- It's weird I don't have one, I know. I did have a super cheap one, but it died. It worked just long enough for me to learn that I do actually like using them and would have fun with a better one. There's a wide range of options, but most important to me would just be one that's not gonna crap out and uses standard printer 1.75mm filament. I have a bunch of filament for my 3D printers, I don't want to have to buy different material for the pen. Maybe some
+	- It's weird I don't have one, I know. I did have a super cheap one, but it died. It worked just long enough for me to learn that I do actually like using them and would have fun with a better one. There's a wide range of options, but most important to me would just be one that's not gonna crap out and uses standard printer 1.75mm filament. I have a bunch of filament for my 3D printers, I don't want to have to buy different material for the pen. Maybe something like the one [Sanago](https://www.youtube.com/@sanago)?
+- A nice color-accurate OLED computer monitor
+	- The contrast on OLEDs are just soooo nice. I have decent monitors, but not with that rich deep OLED contrast!
 
 # Specific Products
 In order of cost (low to high)
@@ -44,5 +47,5 @@ In order of cost (low to high)
     - Flex shaft tools are CRAZY useful. I have a crappy old dremel flex shaft that I use all the time. For years though, I've dreamed of having a PROPER flex shaft rotary tool hanging by my desk rather than unpacking the tangled mess of that Dremel and having to set the speed manually. The Foredom SR is the one all the others are cheap imitations of. It has a foot pedal so that I can have both hands to hold the tool and the work piece and not have to worry about the DANG DREMEL rolling off the table again. This is one of those "yeah, it's pricey, but it's a proper tool that I'd use a lot, and it'd be safer than the shitty one I use now, so it's worth it" things.
 - [Sawstop CTS Compact Table Saw]() ($899)
 	- Table saws are really useful, but terrifying. I have one that is okay, but I avoid using it because it scares me. SawStop is the only company that makes a saw that can detect contact with your skin and instantly retract the blade. That means it's nearly impossible for this thing to cut off a finger. It's amazing tech, and I would really prefer to have a saw with that feature. It's also apparently just a very nice table saw.
-- [Bridgestone Winter Driving School](https://winterdrive.com) ($1,535-$3,825)
+- [Bridgestone Winter Driving School](https://winterdrive.com) ($1,535 -$3,825)
 	- I've heard good things about these classes. I want to take performance driving classes, and apparently doing it on ice is like a slow motion version of a lot of the same principles that apply to pavement driving, allowing much more control and understanding of the dynamics at play.
