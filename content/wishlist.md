@@ -4,8 +4,11 @@ title: Wish List
 description: Literally just stuff I want
 tags:
 ---
-Here's a bunch of stuff that I'd like to have in order of cost. (low to high)
+# General
+- Old brass instruments of pretty much any kind. I am specifically on the lookout for a small humidity gauge, like one from a humidor, to use for a 
 
+# Specific Products
+In order of cost (low to high)
 - [Tritium Vial (Green cuz it's the brightest)](https://tritiumworkshop.com/products/tritium-vial-1-5mm-3mm-9mm-xl-rectangle) ($17)
     - Tritium is just fricken cool. I've always wanted a little vial. I wouldn't wear it on a necklace or carry it on a keychain, but I'd absolutely put it on my shelf of cool materials. 
 - [KNIPEX 8" TwinGrip Pliers (82 01 200)](https://www.amazon.com/KNIPEX-82-01-200-TwinGrip/dp/B097C98LCT) ($37)
