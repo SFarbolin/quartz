@@ -9,7 +9,8 @@ tags:
 	- I am specifically on the lookout for a small humidity gauge, like one from a humidor, to use for a Kintsugi Muro (curing box). Most of the ones I find for sale are brass colored plastic, which would work, but real brass and glass would be ideal.
 	- Barometers and thermometers are also cool
 - Pallet dismantling tools
-	- Pallet buster for disassembling pallets. Serio
+	- Pallet buster for disassembling pallets. Seriously, it's a pain to do with hammers and crowbars, and I end up breaking a lot of boards. The ones with the pivoting head [like this one](https://www.amazon.com/Wrecker-Breaker-Articulating-Pivot-Action-Removal/dp/B0CQ56WZ9K) seem to be the best at keeping board intact
+	- 
 
 # Specific Products
 In order of cost (low to high)
