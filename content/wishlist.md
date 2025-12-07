@@ -6,6 +6,10 @@ tags:
 ---
 Apparently I'm hard to shop for, so here's a bunch of stuff I want.
 # General
+- Cool/interesting materials
+	- Some examples I already have include: Tungsten cube, bismuth crystals, vials of Gallium, Niobium coin, samples of the "darkest black" made from carbon nanotubes, I used to hsve some ferrofluid, but it leaked.
+	- [Tritium Vial (Green cuz it's the brightest)](https://tritiumworkshop.com/products/tritium-vial-1-5mm-3mm-9mm-xl-rectangle) ($17)
+	    - Tritium is just fricken cool. I've always wanted a little vial. I wouldn't wear it on a necklace or carry it on a keychain, but I'd absolutely put it on my shelf of cool materials. Green is apparently the brightest color for Tritium vials (and even that is still pretty dim). I linked to the largest vial they have on that site, but I certainly wouldn't say no to other shapes/sizes/colors!
 - Old brass instruments of pretty much any kind.
 	- I am specifically on the lookout for a small humidity gauge, like one from a humidor, to use for a Kintsugi Muro (curing box). Most of the ones I find for sale are brass colored plastic, which would work, but real brass and glass would be ideal.
 	- Barometers and thermometers are also cool
@@ -22,8 +26,6 @@ Apparently I'm hard to shop for, so here's a bunch of stuff I want.
 
 # Specific Products
 In order of cost (low to high)
-- [Tritium Vial (Green cuz it's the brightest)](https://tritiumworkshop.com/products/tritium-vial-1-5mm-3mm-9mm-xl-rectangle) ($17)
-    - Tritium is just fricken cool. I've always wanted a little vial. I wouldn't wear it on a necklace or carry it on a keychain, but I'd absolutely put it on my shelf of cool materials. 
 - [KNIPEX 8" TwinGrip Pliers (82 01 200)](https://www.amazon.com/KNIPEX-82-01-200-TwinGrip/dp/B097C98LCT) ($37)
     - There are so many times that being able to grip a bolt or something with the tip of the pliers would be really handy. I'd love the full 3 piece kit, but if I had to pick one, it'd be the 8".
 - [KNIPEX 7 1/4" Pliers Wrench (86 03 180)](https://www.amazon.com/KNIPEX-Tools-Pliers-Wrench-8601180/dp/B000X4KP1C0) ($58)
@@ -45,7 +47,7 @@ In order of cost (low to high)
 	- I have a pneumatic 16 Ga. finish nailer that I use a lot. But boy would I love to not have to be tethered to the air compressor. Especially when building the solstice bonfires. Or having to snake the hose up from the shop through the house to install trim or whatever. Another pricey one, but I'd use it.
 - [Foredom SR Motor Universal Kit](https://www.foredom.net/product/k-2272-universal-application-kit-sr-motor-foot-control-and-h-30-handpiece/) ($546.36)
     - Flex shaft tools are CRAZY useful. I have a crappy old dremel flex shaft that I use all the time. For years though, I've dreamed of having a PROPER flex shaft rotary tool hanging by my desk rather than unpacking the tangled mess of that Dremel and having to set the speed manually. The Foredom SR is the one all the others are cheap imitations of. It has a foot pedal so that I can have both hands to hold the tool and the work piece and not have to worry about the DANG DREMEL rolling off the table again. This is one of those "yeah, it's pricey, but it's a proper tool that I'd use a lot, and it'd be safer than the shitty one I use now, so it's worth it" things.
-- [Sawstop CTS Compact Table Saw](https://www.sawstop.com/product/compact-table-saw/) ($899)
+- [Sawstop CTS Compact Table Saw]() ($899)
 	- Table saws are really useful, but terrifying. I have one that is okay, but I avoid using it because it scares me. SawStop is the only company that makes a saw that can detect contact with your skin and instantly retract the blade. That means it's nearly impossible for this thing to cut off a finger. It's amazing tech, and I would really prefer to have a saw with that feature. It's also apparently just a very nice table saw.
-- [Bridgestone Winter Driving School](https://winterdrive.com) ($1535-$3825)
+- [Bridgestone Winter Driving School](https://winterdrive.com) ($1535-3825)
 	- I've heard good things about these classes. I want to take performance driving classes, and apparently doing it on ice is like a slow motion version of a lot of the same principles that apply to pavement driving, allowing much more control and understanding of the dynamics at play.
