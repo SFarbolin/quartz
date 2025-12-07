@@ -14,6 +14,8 @@ tags:
 	- Metal/nail detector wand. Yeah, like the one you see the TSA or security guards use. It's used to find nails that might still be in the pallet boards. You don't want to find those later with the saw blade.
 - Honing Guide for sharpening planer blades and chisels
 	- I got nice sharpening stones, and hand sharpening is fine for knives, but planes and chisels work best with precise angles that require a guide. There's a bunch of versions, but something like [this](https://www.amazon.com/Chisel-Sharpening-Honing-Chisels-Fixture/dp/B0D1XRR8N7) or [this](https://www.amazon.com/Saker-Honing-Guide-Upgraded-Woodworking-Chisels/dp/B0C5C44DDJ). Ones that look like [this](https://www.amazon.com/ATLIN-Honing-Guide-Chisels-Planer/dp/B07C9X3F98) are real popular, but the narrow roller means it's easy to accidentally tilt it and mess up your angle when sharpening.
+- 3D pen
+	- It's weird I don't have one, I know. I did have a super cheap one, but it died. It worked just long enough for me to learn that I do actually like using them and would have fun with a better one. There's a wide range of options, but most important to me would just be one that's not gonna crap out and uses standard printer 1.75mm filament. I have a bunch of filament for my 3D printers, I don't want to have to buy different material for the pen. Maybe some
 
 # Specific Products
 In order of cost (low to high)
