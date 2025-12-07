@@ -5,7 +5,11 @@ description: Literally just stuff I want
 tags:
 ---
 # General
-- Old brass instruments of pretty much any kind. I am specifically on the lookout for a small humidity gauge, like one from a humidor, to use for a 
+- Old brass instruments of pretty much any kind.
+	- I am specifically on the lookout for a small humidity gauge, like one from a humidor, to use for a Kintsugi Muro (curing box). Most of the ones I find for sale are brass colored plastic, which would work, but real brass and glass would be ideal.
+	- Barometers and thermometers are also cool
+- Pallet dismantling tools
+	- Pallet buster for disassembling pallets. Serio
 
 # Specific Products
 In order of cost (low to high)
