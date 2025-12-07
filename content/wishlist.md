@@ -13,7 +13,7 @@ tags:
 	- Denailer gun. It's like a nail gun, but for *denailing.* Basically, when you pull the boards apart, they have nails sticking through. You slip the long nose of the denailer over the pointy end of the nail sticking out, and hits it real hard and shoots backwards it out of the wood. WAY better than trying to hammer it out or grab it with pliers. Something like the [AirLocker AP700](https://www.amazon.com/Air-locker-professional-Nailer-Remover/dp/B003X2QM3G) seems good.
 	- Metal/nail detector wand. Yeah, like the one you see the TSA or security guards use. It's used to find nails that might still be in the pallet boards. You don't want to find those later with the saw blade.
 - Honing Guide for sharpening planer blades and chisels
-	- I got nice sharpening stones, and hand sharpening is fine for knives, but planes and chisels work best with precise angles that require a guide. There's a bunch of versions, but something like [this](https://www.amazon.com/Chisel-Sharpening-Honing-Chisels-Fixture/dp/B0D1XRR8N7) or [this](https://www.amazon.com/Saker-Honing-Guide-Upgraded-Woodworking-Chisels/dp/B0C5C44DDJ)
+	- I got nice sharpening stones, and hand sharpening is fine for knives, but planes and chisels work best with precise angles that require a guide. There's a bunch of versions, but something like [this](https://www.amazon.com/Chisel-Sharpening-Honing-Chisels-Fixture/dp/B0D1XRR8N7) or [this](https://www.amazon.com/Saker-Honing-Guide-Upgraded-Woodworking-Chisels/dp/B0C5C44DDJ). Ones that look like [this](https://www.amazon.com/ATLIN-Honing-Guide-Chisels-Planer/dp/B07C9X3F98) are real popular, but the narrow roller means it's easy to accidentally tilt it and mess up your angle when sharpening.
 
 # Specific Products
 In order of cost (low to high)
