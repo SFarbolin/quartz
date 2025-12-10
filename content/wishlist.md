@@ -30,7 +30,8 @@ In order of cost (low to high)
     - There are so many times that being able to grip a bolt or something with the tip of the pliers would be really handy. I'd love the full 3 piece kit, but if I had to pick one, it'd be the 8".
 - [KNIPEX 7 1/4" Pliers Wrench (86 03 180)](https://www.amazon.com/KNIPEX-Tools-Pliers-Wrench-8601180/dp/B000X4KP1C0) ($58)
     - I've heard many times from many sources that these are one of the most crazy useful tools in the shop. Again, more sizes would be awesome, but the 7 1/4" seem to be most people's go-to.
-- [Justrite 8oz ]
+- [Justrite 8oz Dispensing Can - 14004](https://www.justrite.com/dispensing-can-nonmetallic-with-brass-dispenser-valves-8-ounce-polyethylene-red-14004) ($58)
+	- Super useful little guy for safely dispensing small amounts of solvents rather than taking the cap off a larger container. I would use it for acetone. Again, pricey for what it is, but people who have them love how useful they are. Worth it if you use it a lot, and I would.
 - [JetKVM](https://jetkvm.com/products/jetkvm) ($89)
     - This would be really handy for remote controlling computers. I can think of at least 3 ways I'd use it off the top of my head. If it proves as useful as I think it is, I may end up wanting a few.
 - [Akai Professional MPK Mini Play3 25-key Portable Keyboard and MIDI Controller](https://www.sweetwater.com/store/detail/MPKminiPlay3--akai-professional-mpk-mini-play3-25-key-portable-keyboard-and-midi-controllers) ($129)
