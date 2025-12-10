@@ -26,10 +26,10 @@ Apparently I'm hard to shop for, so here's a bunch of stuff I want.
 
 # Specific Products
 In order of cost (low to high)
-- [150ml Press Type Alcohol Bottle] ($23)
+- [150ml Press Type Alcohol Bottle] ($23-$44)
 	- I use rubbing alcohol (and other solvents) very often, but in small quantities. Opening a bottle and trying to get just enough to, say wet a cotton swap, is annoying and wasteful. Dispensers like this are perfect for getting just a tiny bit of solvent without risk of spills. 
 	- One would be great, but as of this writing, this listing offers a 3 pack for less than the cost of buying 2 individuals. That would let me have more solvent options and/or bottles in more work areas.
-	- My preferred is the tapered one, "Pattern D" on this listing.
+	- My preferred is the tapered one labeled "Hozan" ("Pattern D" on this listing.)
 - [KNIPEX 8" TwinGrip Pliers (82 01 200)](https://www.amazon.com/KNIPEX-82-01-200-TwinGrip/dp/B097C98LCT) ($37)
     - There are so many times that being able to grip a bolt or something with the tip of the pliers would be really handy. I'd love the full 3 piece kit, but if I had to pick one, it'd be the 8".
 - [KNIPEX 7 1/4" Pliers Wrench (86 03 180)](https://www.amazon.com/KNIPEX-Tools-Pliers-Wrench-8601180/dp/B000X4KP1C0) ($58)
