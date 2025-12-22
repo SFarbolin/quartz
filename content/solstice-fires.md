@@ -45,6 +45,7 @@ We're big on building community, and it turns out that getting a bunch of your f
 > [!tip]- More Photos
 > ![[PXL_20251221_225738524.jpg|300]]
 > ![[PXL_20251221_230242720.jpg|300]]
+> ![[PXL_20251222_002444668_blur.jpg]]
 > 
 
 ## Summer 2025
