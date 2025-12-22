@@ -5,7 +5,7 @@ aliases:
 title: Solstice Bonfires
 description: Big burning sculptures to celebrate the longest and shortest days of the year.
 tags:
-socialImage: "attachments/PXL_20241222_054724744.jpg"
+socialImage: attachments/PXL_20241222_054724744.jpg
 ---
 **Every solstice, we invite friends over to build a big "effigy" out of scrap wood and light it on fire at sunset.**
 Attendees are encouraged to bring stuff to add into the fire. It can be sentiments or intentions written down, sentimental objects to let go of, durable objects to "cleanse" or patina, or just to burn for fun. 
