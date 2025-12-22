@@ -31,4 +31,5 @@ We're big on building community around here, and it turns out that getting a bun
 
 During cleanup, some charcoal is collected from each fire to be added to the next one. Thus there is a direct physical connection between each fire, going back to the first one in December 2024.
 
+
 > ***Everyone brings their own meaning to the event.***
