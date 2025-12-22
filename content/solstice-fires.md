@@ -27,7 +27,7 @@ All attendees are encouraged to participate in the creative building process. Ba
 
 > ***It's very fun, creative, and collaborative.***
 
-We're big on building community around here, and it turns out that getting a bunch of your favorite weirdos[^1] together to build a big sculpture and then set it on fire is a 
+We're big on building community around here, and it turns out that getting a bunch of your favorite weirdos[^1]: I mean "weirdos" lovingly. I'm a weirdo. If you've been to one of our fires, you probably are too. And I love that about you! together to build a big sculpture and then set it on fire is a 
 
 During cleanup, some charcoal is collected from each fire to be added to the next one. Thus there is a direct physical connection between each fire, going back to the first one in December 2024.
 
