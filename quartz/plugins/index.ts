@@ -54,4 +54,3 @@ declare module "vfile" {
     relativePath: FilePath
   }
 }
-export { ClickableImages } from "./clickableImages"
