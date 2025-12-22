@@ -66,6 +66,7 @@ We're big on building community, and it turns out that getting a bunch of your f
 
 ## Winter 2024
 ![[PXL_20241222_054724744.jpg]]
+Our first solstice fire! 
 > [!tip]- More Photos
 > ![[PXL_20241218_234012682.jpg]]
 > ![[PXL_20241220_232444269.jpg]]
