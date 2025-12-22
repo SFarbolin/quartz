@@ -45,3 +45,4 @@ Mostly, we just think it's a great excuse to take a day to be outside, recognize
 ## Summer 2025
 
 ## Winter 2024
+![[PXL_20241218_234012682.jpg|300]]
