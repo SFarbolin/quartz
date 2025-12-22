@@ -6,4 +6,4 @@ title: Solstice Bonfires
 description: Big burning sculptures to celebrate the longest and shortest days of the year.
 tags:
 ---
-We've started a tradition of building a big "effigy" out of 
+Every solstice, we invite friends over to build a big "effigy" out of scrap wood in out yard 
