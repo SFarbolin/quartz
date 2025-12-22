@@ -22,5 +22,6 @@ Attendees are encouraged to bring stuff to add into the fire. It can be sentimen
 
 During cleanup, some charcoal is collected from each fire to be added to the next one. Thus there is a direct physical connection between each fire, going back to the first one in December 2024. 
 
+The design of each fire is made up on the day and all attendees is encouraged to participate in the building and creative process. Basically, we just go nuts on it with an 18 gauge finish nailer, with some framing nails for the main structural parts.
 
 Everyone brings their own meaning to the event. It's very fun, creative, collaborative, and 
