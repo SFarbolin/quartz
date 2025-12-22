@@ -22,21 +22,21 @@ Attendees are encouraged to bring stuff to add into the fire. It can be sentimen
 >  - hand puppet
 >  - invasive plants
 
-The design of each effigy is made up on the day based on what materials have been collected and whatever seems fun.
-All attendees are encouraged to participate in the creative building process. Basically, we just go nuts on a pile of wood with an 18 gauge finish nailer (and selective use of framing nailer for the structural bits).
+The design of each effigy is made up on the day based on what materials have been collected and whatever seems fun. All attendees are encouraged to participate in the creative building process. Basically, we just go nuts on a pile of wood with an 18 gauge finish nailer (and selective use of framing nailer for the structural bits).
 
 > ***It's very fun, creative, and collaborative.***
-
-We're big on building community around here, and it turns out that getting a bunch of your favorite weirdos[^1]: I mean "weirdos" lovingly. I'm a weirdo. If you've been to one of our fires, you probably are too. And I love that about you! together to build a big sculpture and then set it on fire is a 
 
 During cleanup, some charcoal is collected from each fire to be added to the next one. Thus there is a direct physical connection between each fire, going back to the first one in December 2024.
 
 You may ask, as many do: "Is this some kind of pagan thing?"
 And the answer is: it is if you want it to be!
 > ***Everyone brings their own meaning to the event.***
+
 Mostly, we just think it's a great excuse to take a day to be outside, recognize the changing seasons, and stand around a big fire with people we like.
 
 (That being said, I do think the traditional [[Pagan Sabbats]] are pretty cool.)
+
+We're big on building community, and it turns out that getting a bunch of your favorite weirdos [^1] together to build a big sculpture and then set it on fire is a great way to connect.
 
 # Past Fires
 
@@ -46,3 +46,5 @@ Mostly, we just think it's a great excuse to take a day to be outside, recognize
 
 ## Winter 2024
 ![[PXL_20241218_234012682.jpg|300]]
+
+[^1]: I mean "weirdos" lovingly. I'm a weirdo. If you've been to one of our fires, you probably are too. And I love that about you! 
