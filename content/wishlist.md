@@ -26,7 +26,7 @@ Apparently I'm hard to shop for, so here's a bunch of stuff I want.
 
 # Specific Products
 In order of cost (low to high)
-- [150ml Press Type Alcohol Bottle] ($23-$44)
+- [150ml Press Type Alcohol Bottle](https://www.ebay.com/itm/305259127202) ($23-$44)
 	- I use rubbing alcohol (and other solvents) very often, but in small quantities. Opening a bottle and trying to get just enough to, say wet a cotton swap, is annoying and wasteful. Dispensers like this are perfect for getting just a tiny bit of solvent without risk of spills. 
 	- One would be great, but as of this writing, this listing offers a 3 pack for less than the cost of buying 2 individuals. That would let me have more solvent options and/or bottles in more work areas.
 	- My preferred is the tapered one labeled "Hozan" ("Pattern D" on this listing.)
