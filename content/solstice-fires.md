@@ -46,5 +46,6 @@ We're big on building community, and it turns out that getting a bunch of your f
 
 ## Winter 2024
 ![[PXL_20241218_234012682.jpg|300]]
+![[PXL_20241220_232444269.jpg]]
 
-[^1]: I mean "weirdos" lovingly. I'm a weirdo. If you've been to one of our fires, you probably are too. And I love that about you! 
+[^1]: Of course, I mean "weirdos" lovingly. I'm a weirdo, and if you've been invited to one of our fires, you probably are too. I love that about you! 
