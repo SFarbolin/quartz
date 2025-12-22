@@ -31,5 +31,17 @@ We're big on building community around here, and it turns out that getting a bun
 
 During cleanup, some charcoal is collected from each fire to be added to the next one. Thus there is a direct physical connection between each fire, going back to the first one in December 2024.
 
-
+You may ask, as many do: "Is this some kind of pagan thing?"
+And the answer is: it is if you want it to be!
 > ***Everyone brings their own meaning to the event.***
+Mostly, we just think it's a great excuse to take a day to be outside, recognize the changing seasons, and stand around a big fire with people we like.
+
+(That being said, I do think the traditional [[Pagan Sabbats]] are pretty cool.)
+
+# Past Fires
+
+## Winter 2025
+
+## Summer 2025
+
+## Winter 2024
