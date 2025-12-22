@@ -48,9 +48,9 @@ We're big on building community, and it turns out that getting a bunch of your f
 > ![[IMG_20250620_162006_725.jpg|300]]
 > ![[IMG_20250620_172004_188_blurred.jpg|300]]
 > ![[IMG_20250620_203433_836_blurred.jpg|300]]
-> ![[IMG_20250620_212752_046.jpg|300]]
 > ![[IMG_20250620_212815_902.jpg|300]]
-> 
+> ![[IMG_20250620_213615_463_crop.jpg|300]]
+> ![[IMG_20250620_214049_424.jpg|300]]
 
 ## Winter 2024
 ![[PXL_20241222_054724744.jpg|300]]
