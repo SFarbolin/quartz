@@ -65,7 +65,9 @@ Because the fire tubes worked so well on the previous one, I wanted to play with
 
 I know realize that the pattern of slow spreading cellular flames coming from propane that I saw on the ride are very different than the fast moving vertical flames of a large wood fire. And the sheer volume of flow hitting that surface was way too much for those piddly little 3 sided flame tubes to do much. I don't think I'll get that cellular pattern with a bonfire, but I can play more with having fire tubes direct flames out from a central chamber.
 
-This was the first fire where we started adding surface decoration (paint). I mostly avoided 
+This was the first fire where we started adding surface decoration (paint). And while I completely avoided laminated wood (plywood, OSB) in the first fire, I did use some in this one to get that nice big flat surface.
+
+The pink wood that became the forked tongue at the last minute is bits of an old fence on our property that's been falling apart since before we moved in. The "hair" is mostly [Scotch Broom](https://www.nwcb.wa.gov/weeds/scotch-broom) that I pulled out from our yard. Nasty invasive stuff with really tough roots that grows like crazy in the PNW. I have a special tool called a [Pullerbear](https://www.pullerbear.com/) specifically for ripping that stuff out of the ground.
 
 > [!tip]- More Photos
 > ![[IMG_20250620_162006_725.jpg]]
@@ -81,7 +83,9 @@ This was the first fire where we started adding surface decoration (paint). I mo
 ## Winter 2024
 ![[PXL_20241222_054724744.jpg]]
 Our first solstice fire! You can see from the photos that we definitely did not get it lit at sunset. But it was still awesome, and I learned a lot about the process.
+
 During the build, I realized that the fire would shoot up the middle and the wings would probably fall off, unburnt. So I added a "fire tube" made from pallet slats to each wing. These projected into the body with openings facing downwards to catch some rising flames and redirect them out to the wings. You can see these in the second photo below. (The one with my [[Kei Truck]] under the green canopy.) These fire tubes actually worked really well, and you can see fire shooting out of them in the photo above (and the last one below).
+
 The wings were still the last part to burn, but I learned that I can sculpt the path of the flames.
 > [!tip]- More Photos
 > ![[PXL_20241218_234012682.jpg]]
