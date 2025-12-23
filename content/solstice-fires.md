@@ -14,7 +14,7 @@ You may ask (as many do): "Is this some kind of pagan thing?"
 And the answer is: If you want it to be, sure!
 > ### ***Everyone brings their own meaning to the event.***
 
-Mostly, we just think it's a great excuse to spend a day outside, make weird art out of junk, and stand around a big fire with people we like. Don't underestimate the connective value of gathering around a fire and food. People have been doing it for thousands of years, and it's still .
+Mostly, we just think it's a great excuse to spend a day outside, make weird art out of junk, and stand around a big fire with people we like.[] People have been gathering around fires for thousands of years, and it's still great every time.
 
 We're big on building community, and getting a bunch of your favorite weirdos [^1] together to build a big sculpture and set it on fire is a great way to connect.
 
