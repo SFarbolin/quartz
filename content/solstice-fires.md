@@ -46,12 +46,12 @@ The design of each effigy is made up on the day based on what materials have bee
 
 During cleanup, some charcoal is collected from each fire to be added to the next one. Thus there is a direct physical connection between each fire, going back to the first one in December 2024.
 
-There is, of course, also a bunch of nails and miscellaneous bits left over. So after each fire, I thoroughly sweep the burn area with a floor magnet until I can pass over the whole area without anything sticking to it. I use my truck in the field sometimes, and I don't want any surprise nails in my tires. This process is actually pretty fun because, as I sift through the pile I get to find all kinds of cool looking bits that survived the blaze. By the time I'm done, it looks like ![[PXL_20251223_212513248.jpg|this]]
+There is, of course, also a bunch of nails and miscellaneous bits left over. So after each fire, I thoroughly sweep the burn area with a floor magnet until I can pass over the whole area without anything sticking to it. I use my truck in the field sometimes, and I don't want any surprise nails in my tires. This process is actually pretty fun because, as I sift through the pile I get to find all kinds of cool looking bits that survived the blaze. By the time I'm done, it looks like [[PXL_20251223_212513248.jpg|this.]]
 
 # Past Burns
 
 ## Winter 2025
-![[PXL_20251222_003859395.jpg]]
+![[PXL_20251222_003859395.jpg|400]]
 We finally ripped out a large section of the rotten old pink fence, and so the pink slats featured heavily in this burn. Some of the attendees really took to painting lots of fun details on this one. Another person brought a handful of ground spinning fireworks, so we tossed those in! It was definitely the most colorful effigy so far, both before and after setting alight.
 
 The main structure of this one was formed by 2 extra large pallets connected by a pair of 2x4s to form a large H. Only one framing nail went in at each connection, yet this core structure lasted until almost everything else had burned. Atop the 2x4s was a white cabinet that a neighbor put out for free many months ago. I grabbed it, thinking I would use it in the shop, but instead, it just sat around taking up space. I figured it would make the perfect receptacle for attendees' "sacrifices", so into the fire it went!
@@ -63,19 +63,19 @@ No flame tubes this time around. But I did cut out the top and bottom of the whi
 This was a very rainy build day. So while I did dry out all the wood beforehand and keep it under cover as long as possible, it got quite wet during the 3 hours of building. It had enough of a roof to protect the base fire (which we build last out of the smallest, driest material) as it grew and eventually caught everything. 
 
 > [!tip]- More Photos
-> ![[PXL_20251221_225738524.jpg]]
+> ![[PXL_20251221_225738524.jpg|400]]
 > 
 > (Yes, that is an Ace Hardware shopping basket. One of the many bizarre treasures that came with the house. I would never steal one myself, but it is really useful to have around the property. Great for picking apples!)
 > 
-> ![[PXL_20251221_230242720.jpg]]
-> ![[PXL_20251222_003454065.jpg]]
-> ![[PXL_20251222_003532799.jpg]]
-> ![[PXL_20251222_003757511.NIGHT.jpg]]
-> ![[PXL_20251222_004036086.jpg]]
-> ![[PXL_20251222_004154362.jpg]]
+> ![[PXL_20251221_230242720.jpg|400]]
+> ![[PXL_20251222_003454065.jpg|400]]
+> ![[PXL_20251222_003532799.jpg|400]]
+> ![[PXL_20251222_003757511.NIGHT.jpg|400]]
+> ![[PXL_20251222_004036086.jpg|400]]
+> ![[PXL_20251222_004154362.jpg|400]]
 
 ## Summer 2025
-![[IMG_20250620_214159_175.jpg]]
+![[IMG_20250620_214159_175.jpg|400]]
 Because the fire tubes worked so well on the previous one, I wanted to play with the idea of redirecting the fire more. I remembered seeing a really cool looking pattern of fire spreading across the underside of a ceiling on the ride [Escape from Pompeii](https://en.wikipedia.org/wiki/Escape_from_Pompeii) and was hoping to get something like that under the angled roof as well as hopefully directing some flames to flow out through a radiating set of fire tubes. That didn't quite work, but it was still very cool.
 
 I know realize that the pattern of slow spreading cellular flames coming from propane that I saw on the ride are very different than the fast moving vertical flames of a large wood fire. And the sheer volume of flow hitting that surface was way too much for those piddly little 3 sided flame tubes to do much. I don't think I'll get that cellular pattern with a bonfire, but I can play more with having fire tubes direct flames out from a central chamber.
@@ -85,29 +85,29 @@ This was the first fire where we started adding surface decoration (paint). And 
 The pink wood that became the forked tongue at the last minute is bits of an old fence on our property that's been falling apart since before we moved in. The "hair" is mostly [Scotch Broom](https://www.nwcb.wa.gov/weeds/scotch-broom) that I pulled out from our yard. Nasty invasive stuff with really tough roots that grows like crazy in the PNW. I bought a special tool called a [Pullerbear](https://www.pullerbear.com/) back in 2018 specifically for ripping the stuff out of the ground.
 
 > [!tip]- More Photos
-> ![[IMG_20250620_162006_725.jpg]]
-> ![[IMG_20250620_172004_188_blurred.jpg]]
-> ![[IMG_20250620_203433_836_blurred.jpg]]
-> ![[IMG_20250620_212815_902.jpg]]
-> ![[IMG_20250620_213615_463_crop.jpg]]
-> ![[IMG_20250620_214049_424.jpg]]
-> ![[IMG_20250620_214148_173.jpg]]
-> ![[IMG_20250620_214243_468.jpg]]
-> ![[IMG_20250620_214412_078_blur.jpg]]
+> ![[IMG_20250620_162006_725.jpg|400]]
+> ![[IMG_20250620_172004_188_blurred.jpg|400]]
+> ![[IMG_20250620_203433_836_blurred.jpg|400]]
+> ![[IMG_20250620_212815_902.jpg|400]]
+> ![[IMG_20250620_213615_463_crop.jpg|400]]
+> ![[IMG_20250620_214049_424.jpg|400]]
+> ![[IMG_20250620_214148_173.jpg|400]]
+> ![[IMG_20250620_214243_468.jpg|400]]
+> ![[IMG_20250620_214412_078_blur.jpg|400]]
 
 ## Winter 2024
-![[PXL_20241222_054724744.jpg]]
+![[PXL_20241222_054724744.jpg|400]]
 Our first solstice fire! You can see from the photos that we definitely did not get it lit at sunset. But it was still awesome, and I learned a lot about the process.
 
 During the build, I realized that the fire would shoot up the middle and the wings would probably fall off, unburnt. So I added a "fire tube" made from pallet slats to each wing. These projected into the body with openings facing downwards to catch some rising flames and redirect them out to the wings. You can see these in the second photo below. (The one with my [[kei-truck|Kei Truck]] under the green canopy.) These fire tubes actually worked really well, and you can see fire shooting out of them in the photo above (and the last one below).
 
 The wings were still the last part to burn, but I learned that I can sculpt the path of the flames.
 > [!tip]- More Photos
-> ![[PXL_20241218_234012682.jpg]]
-> ![[PXL_20241220_232444269.jpg]]
-> ![[PXL_20241222_025223251.jpg]]
-> ![[PXL_20241222_054259577.NIGHT.jpg]]
-> ![[PXL_20241222_054659475.jpg]]
+> ![[PXL_20241218_234012682.jpg|400]]
+> ![[PXL_20241220_232444269.jpg|400]]
+> ![[PXL_20241222_025223251.jpg|400]]
+> ![[PXL_20241222_054259577.NIGHT.jpg|400]]
+> ![[PXL_20241222_054659475.jpg|400]]
 
 
 
