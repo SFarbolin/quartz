@@ -6,25 +6,22 @@ aliases:
 **Hi there! I'm Sean Farbolin.**
 *I like to learn, tinker, make stuff, and [[play]].*
 
-Welcome!
+Sometimes I do things like build [[solstice-fires|big bonfires]] or [[ukulele|revive thrifted junk.]]
 
-I recently completed a [[typewriter-apprenticeship|typewriter repair apprenticeship]] at the [Bremerton Typewriter Company](https://typespec.com/). I plan to add lots more photos and details of my time there.
+In the summer of 2025, I completed a [[typewriter-apprenticeship|typewriter repair apprenticeship]] at the [Bremerton Typewriter Company](https://typespec.com/). I plan to add lots more photos and details of my time there.
 
-I got this site up and working [[how-this-site-works|the way I want it]] to on May 8th, 2025.
+I've set it up as a [[digital-garden|digital garden]] that I can edit on the fly. Which means, instead of a nice, clean, polished site, I've starting very simply and growing it over time. Much like a real garden, this is site is meant to be a place to wander around in.
 
-I've set it up as a [[digital-garden|digital garden]] that I can edit on the fly. Which means instead a super clean polished site, I'm starting very simply and growing it over time. It may be sparse now, but I'm trying to add to it. I hope you check back in from time to time to see how it evolves!
+I intentionally don't have a main menu. You're gonna have to explore! The graph view shows how all the pages connect to each other, so maybe check that out! (The Graph View is on top right on desktop, at the bottom on mobile)
+Maybe you want to start exploring by looking at some of my [[tags/projects|projects]].
 
-My plan for this site is for it to be a place that's fun to take some time to explore. So click around, follow links, and see where you end up!
-
-I should also say, and this is probably already immediately obvious to you, but I can get kinda wordy. I try to reign it in, but hey, this is my site. I hope that doesn't deter you though. If you want to know about me and what I do (that's why you're here right?) then I hope you stick around for a little while.
+It may be sparse now, but I'm adding to it! I hope you check back in from time to time to see how it evolves.
 
 Thanks for visiting my website!
 -Sean
 
-Maybe you want to start exploring by looking at some of my [[tags/projects|projects]].
-
 Find me elsewhere:
-[Bluesky](https://bsky.app/profile/farbolin.me)    <- Where I'm most active at the moment
+[Bluesky](https://bsky.app/profile/farbolin.me)    <- I use this sometimes
 [YouTube](https://www.youtube.com/makeronthemove)    <- I might upload again someday
 [Twitch](https://www.twitch.tv/makeronthemove)    <- I've done some live shop streams. Maybe I will again!
 [Instagram](https://www.instagram.com/makeronthemove/)    <- Not really using anymore
