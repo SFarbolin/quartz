@@ -35,7 +35,7 @@ And the answer is: it is if you want it to be!
 
 Mostly, we just think it's a great excuse to take a day to be outside, recognize the changing seasons, and stand around a big fire with people we like.
 
-(That being said, I do think the traditional [[Pagan Sabbats]] are pretty cool.)
+(That being said, I do think the traditional [Pagan Sabbats] are pretty cool.)
 
 We're big on building community, and it turns out that getting a bunch of your favorite weirdos [^1] together to build a big sculpture and then set it on fire is a great way to connect.
 
