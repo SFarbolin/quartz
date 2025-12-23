@@ -58,12 +58,12 @@ With the extra long beam that the head is mounted on plus the "antlers", this is
 
 No flame tubes this time around. But I did cut out the top and bottom of the white cabinet and build a sort of skirt around the bottom to funnel the fire up through the cavity. Thus ensuring that all of the contents were thoroughly incinerated.
 
-This was a very rainy build day. So while I did dry out all the wood beforehand and keep it under cover as long as possible, it got quite wet during the 3 hours of building. It had enough of a roof to protect the base fire (which we build last out of the smallest, dryest material) as it grew and eventually caught everything. 
+This was a very rainy build day. So while I did dry out all the wood beforehand and keep it under cover as long as possible, it got quite wet during the 3 hours of building. It had enough of a roof to protect the base fire (which we build last out of the smallest, driest material) as it grew and eventually caught everything. 
 
 > [!tip]- More Photos
 > ![[PXL_20251221_225738524.jpg]]
 > 
-> (Yes, that is an Ace Hardware shopping basket. One of the many bizarre treasures that came with the house. I would never steal one myself, but I'll admit that it's really useful to have around the property. Great for picking apples!)
+> (Yes, that is an Ace Hardware shopping basket. One of the many bizarre treasures that came with the house. I would never steal one myself, but it is really useful to have around the property. Great for picking apples!)
 > 
 > ![[PXL_20251221_230242720.jpg]]
 > ![[PXL_20251222_003454065.jpg]]
