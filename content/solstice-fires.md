@@ -46,7 +46,7 @@ The design of each effigy is made up on the day based on what materials have bee
 
 During cleanup, some charcoal is collected from each fire to be added to the next one. Thus there is a direct physical connection between each fire, going back to the first one in December 2024.
 
-# Past Fires
+# Past Burns
 
 ## Winter 2025
 ![[PXL_20251222_003859395.jpg]]
@@ -56,7 +56,9 @@ The main structure of this one was formed by 2 extra large pallets connected by 
 
 With the extra long beam that the head is mounted on plus the "antlers", this is the tallest of the effigies so far. I'd estimate it to be about 20ft/6m from ground to the tallest twig. Those pallets were about 4ft x 6ft, so the head is probably about 12ft up.
 
-No flame tubes this time around. But I did cut out the top and bottom of the white cabinet and build a sort of skirt around the bottom to funnel the fire up through the cavity. Thus ensuring that all of the contents were thoroughly incinerated. This was 
+No flame tubes this time around. But I did cut out the top and bottom of the white cabinet and build a sort of skirt around the bottom to funnel the fire up through the cavity. Thus ensuring that all of the contents were thoroughly incinerated.
+
+This was a very rainy build day. So while I did dry out all the wood beforehand and keep it under cover as long as possible, it got quite wet during the 3 hours of building. It had enough of a roof to protect the base fire (which we build last out of the smallest, dryest material) as it grew and eventually caught everything. 
 
 > [!tip]- More Photos
 > ![[PXL_20251221_225738524.jpg]]
@@ -93,7 +95,7 @@ The pink wood that became the forked tongue at the last minute is bits of an old
 ![[PXL_20241222_054724744.jpg]]
 Our first solstice fire! You can see from the photos that we definitely did not get it lit at sunset. But it was still awesome, and I learned a lot about the process.
 
-During the build, I realized that the fire would shoot up the middle and the wings would probably fall off, unburnt. So I added a "fire tube" made from pallet slats to each wing. These projected into the body with openings facing downwards to catch some rising flames and redirect them out to the wings. You can see these in the second photo below. (The one with my [[Kei Truck]] under the green canopy.) These fire tubes actually worked really well, and you can see fire shooting out of them in the photo above (and the last one below).
+During the build, I realized that the fire would shoot up the middle and the wings would probably fall off, unburnt. So I added a "fire tube" made from pallet slats to each wing. These projected into the body with openings facing downwards to catch some rising flames and redirect them out to the wings. You can see these in the second photo below. (The one with my [[kei-truck|Kei Truck]] under the green canopy.) These fire tubes actually worked really well, and you can see fire shooting out of them in the photo above (and the last one below).
 
 The wings were still the last part to burn, but I learned that I can sculpt the path of the flames.
 > [!tip]- More Photos
