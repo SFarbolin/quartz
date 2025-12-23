@@ -65,7 +65,7 @@ Because the fire tubes worked so well on the previous one, I wanted to play with
 
 I know realize that the pattern of slow spreading cellular flames coming from propane that I saw on the ride are very different than the fast moving vertical flames of a large wood fire. And the sheer volume of flow hitting that surface was way too much for those piddly little 3 sided flame tubes to do much. I don't think I'll get that cellular pattern with a bonfire, but I can play more with having fire tubes direct flames out from a central chamber.
 
-
+This was the first fire where we started adding surface decoration (paint). I mostly avoided 
 
 > [!tip]- More Photos
 > ![[IMG_20250620_162006_725.jpg]]
