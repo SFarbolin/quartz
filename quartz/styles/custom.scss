@@ -2,8 +2,10 @@
 
 // put your custom CSS here!
 
-tbody,
-li,
 p {
   line-height: 1.3rem;
 }
+
+sup {
+  vertical-align: top; font-size: 0.6em;
+  }
