@@ -67,7 +67,7 @@ I know realize that the pattern of slow spreading cellular flames coming from pr
 
 This was the first fire where we started adding surface decoration (paint). And while I completely avoided laminated wood (plywood, OSB) in the first fire, I did use some in this one to get that nice big flat surface.
 
-The pink wood that became the forked tongue at the last minute is bits of an old fence on our property that's been falling apart since before we moved in. The "hair" is mostly [Scotch Broom](https://www.nwcb.wa.gov/weeds/scotch-broom) that I pulled out from our yard. Nasty invasive stuff with really tough roots that grows like crazy in the PNW. I have a special tool called a [Pullerbear](https://www.pullerbear.com/) specifically for ripping that stuff out of the ground.
+The pink wood that became the forked tongue at the last minute is bits of an old fence on our property that's been falling apart since before we moved in. The "hair" is mostly [Scotch Broom](https://www.nwcb.wa.gov/weeds/scotch-broom) that I pulled out from our yard. Nasty invasive stuff with really tough roots that grows like crazy in the PNW. I bought a special tool called a [Pullerbear](https://www.pullerbear.com/) back in 2018 specifically for ripping the stuff out of the ground.
 
 > [!tip]- More Photos
 > ![[IMG_20250620_162006_725.jpg]]
