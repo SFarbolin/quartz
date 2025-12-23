@@ -52,14 +52,11 @@ There is, of course, also a bunch of nails and miscellaneous bits left over. So 
 
 ## Winter 2025
 ![[PXL_20251222_003859395.jpg|400]]
+
 We finally ripped out a large section of the rotten old pink fence, and so the pink slats featured heavily in this burn. Some of the attendees really took to painting lots of fun details on this one. Another person brought a handful of ground spinning fireworks, so we tossed those in! It was definitely the most colorful effigy so far, both before and after setting alight.
-
 The main structure of this one was formed by 2 extra large pallets connected by a pair of 2x4s to form a large H. Only one framing nail went in at each connection, yet this core structure lasted until almost everything else had burned. Atop the 2x4s was a white cabinet that a neighbor put out for free many months ago. I grabbed it, thinking I would use it in the shop, but instead, it just sat around taking up space. I figured it would make the perfect receptacle for attendees' "sacrifices", so into the fire it went!
-
 With the extra long beam that the head is mounted on plus the "antlers", this is the tallest of the effigies so far. I'd estimate it to be about 20ft/6m from ground to the tallest twig. Those pallets were about 4ft x 6ft, so the head is probably about 12ft up.
-
 No flame tubes this time around. But I did cut out the top and bottom of the white cabinet and build a sort of skirt around the bottom to funnel the fire up through the cavity. Thus ensuring that all of the contents were thoroughly incinerated.
-
 This was a very rainy build day. So while I did dry out all the wood beforehand and keep it under cover as long as possible, it got quite wet during the 3 hours of building. It had enough of a roof to protect the base fire (which we build last out of the smallest, driest material) as it grew and eventually caught everything. 
 
 > [!tip]- More Photos
@@ -76,6 +73,7 @@ This was a very rainy build day. So while I did dry out all the wood beforehand 
 
 ## Summer 2025
 ![[IMG_20250620_214159_175.jpg|400]]
+
 Because the fire tubes worked so well on the previous one, I wanted to play with the idea of redirecting the fire more. I remembered seeing a really cool looking pattern of fire spreading across the underside of a ceiling on the ride [Escape from Pompeii](https://en.wikipedia.org/wiki/Escape_from_Pompeii) and was hoping to get something like that under the angled roof as well as hopefully directing some flames to flow out through a radiating set of fire tubes. That didn't quite work, but it was still very cool.
 
 I know realize that the pattern of slow spreading cellular flames coming from propane that I saw on the ride are very different than the fast moving vertical flames of a large wood fire. And the sheer volume of flow hitting that surface was way too much for those piddly little 3 sided flame tubes to do much. I don't think I'll get that cellular pattern with a bonfire, but I can play more with having fire tubes direct flames out from a central chamber.
@@ -97,6 +95,7 @@ The pink wood that became the forked tongue at the last minute is bits of an old
 
 ## Winter 2024
 ![[PXL_20241222_054724744.jpg|400]]
+
 Our first solstice fire! You can see from the photos that we definitely did not get it lit at sunset. But it was still awesome, and I learned a lot about the process.
 
 During the build, I realized that the fire would shoot up the middle and the wings would probably fall off, unburnt. So I added a "fire tube" made from pallet slats to each wing. These projected into the body with openings facing downwards to catch some rising flames and redirect them out to the wings. You can see these in the second photo below. (The one with my [[kei-truck|Kei Truck]] under the green canopy.) These fire tubes actually worked really well, and you can see fire shooting out of them in the photo above (and the last one below).
