@@ -62,7 +62,9 @@ This was a very rainy build day. So while I did dry out all the wood beforehand 
 
 > [!tip]- More Photos
 > ![[PXL_20251221_225738524.jpg]]
-> (Yes, that is an Ace Hardware shopping basket. One of the many bizarre treasures that came with the house. I would never steal one myself, but I will admit that it's really useful to have around the property. Great for picking apples!)
+> 
+> (Yes, that is an Ace Hardware shopping basket. One of the many bizarre treasures that came with the house. I would never steal one myself, but I'll admit that it's really useful to have around the property. Great for picking apples!)
+> 
 > ![[PXL_20251221_230242720.jpg]]
 > ![[PXL_20251222_003454065.jpg]]
 > ![[PXL_20251222_003532799.jpg]]
@@ -101,7 +103,8 @@ The wings were still the last part to burn, but I learned that I can sculpt the 
 > [!tip]- More Photos
 > ![[PXL_20241218_234012682.jpg]]
 > ![[PXL_20241220_232444269.jpg]]
-> ![[PXL_20241222_025223251.jpg]]![[PXL_20241222_054259577.NIGHT.jpg]]
+> ![[PXL_20241222_025223251.jpg]]
+> ![[PXL_20241222_054259577.NIGHT.jpg]]
 > ![[PXL_20241222_054659475.jpg]]
 
 
