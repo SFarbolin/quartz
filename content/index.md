@@ -7,7 +7,6 @@ aliases:
 *I like to learn, tinker, make stuff, and [[play]].*
 
 Welcome!
-You may have come here from my instagram or heard me on the [Making Problems to Solve](https://podcasts.apple.com/us/podcast/making-problems-to-solve/id1625999514) podcast.
 
 I recently completed a [[typewriter-apprenticeship|typewriter repair apprenticeship]] at the [Bremerton Typewriter Company](https://typespec.com/). I plan to add lots more photos and details of my time there.
 

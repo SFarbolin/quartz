@@ -54,9 +54,13 @@ There is, of course, also a bunch of nails and miscellaneous bits left over. So 
 ![[PXL_20251222_003859395.jpg|400]]
 
 We finally ripped out a large section of the rotten old pink fence, and so the pink slats featured heavily in this burn. Some of the attendees really took to painting lots of fun details on this one. Another person brought a handful of ground spinning fireworks, so we tossed those in! It was definitely the most colorful effigy so far, both before and after setting alight.
+
 The main structure of this one was formed by 2 extra large pallets connected by a pair of 2x4s to form a large H. Only one framing nail went in at each connection, yet this core structure lasted until almost everything else had burned. Atop the 2x4s was a white cabinet that a neighbor put out for free many months ago. I grabbed it, thinking I would use it in the shop, but instead, it just sat around taking up space. I figured it would make the perfect receptacle for attendees' "sacrifices", so into the fire it went!
+
 With the extra long beam that the head is mounted on plus the "antlers", this is the tallest of the effigies so far. I'd estimate it to be about 20ft/6m from ground to the tallest twig. Those pallets were about 4ft x 6ft, so the head is probably about 12ft up.
+
 No flame tubes this time around. But I did cut out the top and bottom of the white cabinet and build a sort of skirt around the bottom to funnel the fire up through the cavity. Thus ensuring that all of the contents were thoroughly incinerated.
+
 This was a very rainy build day. So while I did dry out all the wood beforehand and keep it under cover as long as possible, it got quite wet during the 3 hours of building. It had enough of a roof to protect the base fire (which we build last out of the smallest, driest material) as it grew and eventually caught everything. 
 
 > [!tip]- More Photos
