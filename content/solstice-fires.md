@@ -12,7 +12,6 @@ socialImage: https://farbolin.me/attachments/PXL_20241222_054724744.jpg
 ![[PXL_20241222_054724744.jpg|300]]
 
 You may ask (as many do): *"Is this some kind of pagan thing?"*
-
 And the answer is: If you want it to be, sure!
 
 > ***Everyone brings their own meaning to the event.***
