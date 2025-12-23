@@ -46,7 +46,7 @@ The design of each effigy is made up on the day based on what materials have bee
 
 During cleanup, some charcoal is collected from each fire to be added to the next one. Thus there is a direct physical connection between each fire, going back to the first one in December 2024.
 
-There is, of course, also a bunch of nails and miscellaneous bits left over, so sometime in the week following each fire, I thoroughly sweep the burn area with a  magnet
+There is, of course, also a bunch of nails and miscellaneous bits left over. So after each fire, I thoroughly sweep the burn area with a floor magnet until I can pass over the whole area without anything sticking to it. I use my truck in the field sometimes, and I don't want any surprise nails in my tires. This process is actually pretty fun because, as I sift through the pile I get to find all kinds of cool looking bits that survived the blaze. By the time I'm done, it looks like ![[PXL_20251223_212513248.jpg|this]]
 
 # Past Burns
 
