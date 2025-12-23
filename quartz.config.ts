@@ -25,7 +25,10 @@ const config: QuartzConfig = {
       cdnCaching: false,
       typography: {
         header: "Gabriela",
-        body: "Averia Serif Libre",
+        body: {
+			name: "Averia Libre",
+			weights: [300,600]
+			},
         code: "IBM Plex Mono",
       },
       colors: {
