@@ -7,14 +7,14 @@ description: Big burning sculptures to celebrate the longest and shortest days o
 tags:
 socialImage: https://farbolin.me/attachments/PXL_20241222_054724744.jpg
 ---
-**Every solstice, we invite friends over to build a big "effigy" out of scrap wood and light it on fire at sunset.**  
+*Every solstice, we invite friends over to build a big "effigy" out of scrap wood and light it on fire at sunset.*
 
 ![[PXL_20241222_054724744.jpg|300]]
 
 You may ask (as many do): *"Is this some kind of pagan thing?"*
 And the answer is: If you want it to be, sure!
 
-> ***Everyone brings their own meaning to the event.***
+> *Everyone brings their own meaning to the event.*
 
 Mostly, we just think it's a great excuse to spend a day outside, make weird art out of junk, and stand around a big fire with people we like.[^1] People have been gathering around fires for thousands of years, and it's still great every time.
 
@@ -41,7 +41,7 @@ Attendees are encouraged to bring stuff to add into the fire. It can be sentimen
 
 The design of each effigy is made up on the day based on what materials have been collected and whatever seems fun. All attendees are encouraged to participate in the creative building process. Basically, we just go nuts on a pile of wood with an 18 gauge finish nailer (and selective use of framing nailer for the structural bits).
 
-> ***It's very fun, creative, and collaborative.***
+> *It's very fun, creative, and collaborative.*
 
 During cleanup, some charcoal is collected from each fire to be added to the next one. Thus there is a direct physical connection between each fire, going back to the first one in December 2024.
 
