@@ -17,7 +17,7 @@ Not only is it a whole lot of fun, but I'm convinced it's the key to creativity.
 
 A simple form of play that we all did as kids is [[doodles|doodling]]. Doodling is just drawing with no goals. I LOVE doodles! 
 
-My ultimate inspiration for play, creativity, and doodling is [Lynda Barry](). Seriously, if you want to be inspired to just start creating, watch some of her talks. [This one](https://www.youtube.com/watch?v=x5QsOg-7B6w) is a personal favorite of mine. I promise it's worth an hour of your time.
+My ultimate inspiration for play, creativity, and doodling is Lynda Barry. Seriously, if you want to be inspired to just start creating, watch some of her talks. [This one](https://www.youtube.com/watch?v=x5QsOg-7B6w) is a personal favorite of mine. I promise it's worth an hour of your time.
 
 
 
