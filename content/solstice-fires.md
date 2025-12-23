@@ -7,10 +7,13 @@ description: Big burning sculptures to celebrate the longest and shortest days o
 tags:
 socialImage: https://farbolin.me/attachments/PXL_20241222_054724744.jpg
 ---
-**Every solstice, we invite friends over to build a big "effigy" out of scrap wood and light it on fire at sunset.**
+**Every solstice, we invite friends over to build a big "effigy" out of scrap wood and light it on fire at sunset.**  
+
+![[PXL_20241222_054724744.jpg|300]]
+
 Attendees are encouraged to bring stuff to add into the fire. It can be sentiments or intentions written down, sentimental objects to let go of, durable objects to "cleanse" or patina, or just to burn for fun. 
 
-> [!abstract]- Some objects that have gone in so far:
+> [!abstract]- Some objects that have gone in the fire:
 >  - family "heirlooms" with unwanted emotional baggage
 >  - animal bones
 >  - notes/letters
@@ -30,12 +33,11 @@ The design of each effigy is made up on the day based on what materials have bee
 During cleanup, some charcoal is collected from each fire to be added to the next one. Thus there is a direct physical connection between each fire, going back to the first one in December 2024.
 
 You may ask, as many do: "Is this some kind of pagan thing?"
-And the answer is: it is if you want it to be!
+And the answer is: It is if you want it to be!
 > ***Everyone brings their own meaning to the event.***
 
-Mostly, we just think it's a great excuse to take a day to be outside, recognize the changing seasons, and stand around a big fire with people we like.
+Mostly, we just think it's a great excuse to take a day to be outside, recognize the changing seasons, and stand around a big fire with people we like. I do think the [Wheel of the Year](https://en.wikipedia.org/wiki/Wheel_of_the_Year) is a cool way to acknowledge and get in tune with the changing seasons, though.
 
-(That being said, I do think the traditional [Pagan Sabbats] are pretty cool.)
 
 We're big on building community, and it turns out that getting a bunch of your favorite weirdos [^1] together to build a big sculpture and then set it on fire is a great way to connect.
 
