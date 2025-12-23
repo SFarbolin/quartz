@@ -9,7 +9,7 @@ socialImage: https://farbolin.me/attachments/PXL_20241222_054724744.jpg
 ---
 **Every solstice, we invite friends over to build a big "effigy" out of scrap wood and light it on fire at sunset.**  
 
-![[PXL_20241222_054724744.jpg|300]]
+<p align="center"><img src="https://farbolin.me/attachments/PXL_20241222_054724744.jpg" width=300></p>
 
 Attendees are encouraged to bring stuff to add into the fire. It can be sentiments or intentions written down, sentimental objects to let go of, durable objects to "cleanse" or patina, or just to burn for fun. 
 
