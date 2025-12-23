@@ -44,7 +44,9 @@ The design of each effigy is made up on the day based on what materials have bee
 
 > ***It's very fun, creative, and collaborative.***
 
-There are, of course, a bunch of nails and miscellaneous bits left in the  During cleanup, some charcoal is collected from each fire to be added to the next one. Thus there is a direct physical connection between each fire, going back to the first one in December 2024.
+During cleanup, some charcoal is collected from each fire to be added to the next one. Thus there is a direct physical connection between each fire, going back to the first one in December 2024.
+
+There is, of course, also a bunch of nails and miscellaneous bits left over, so sometime in the week following each fire, I thoroughly sweep the burn area with a  magnet
 
 # Past Burns
 
