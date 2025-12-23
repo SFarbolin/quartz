@@ -47,6 +47,9 @@ During cleanup, some charcoal is collected from each fire to be added to the nex
 
 ## Winter 2025
 ![[PXL_20251222_003859395.jpg]]
+
+
+
 > [!tip]- More Photos
 > ![[PXL_20251221_225738524.jpg]]
 > ![[PXL_20251221_230242720.jpg]]
@@ -58,7 +61,12 @@ During cleanup, some charcoal is collected from each fire to be added to the nex
 
 ## Summer 2025
 ![[IMG_20250620_214159_175.jpg]]
-Because the fire tubes worked so well on the previous one, I wanted to play with the idea of redirecting the fire more. I remembered seeing 
+Because the fire tubes worked so well on the previous one, I wanted to play with the idea of redirecting the fire more. I remembered seeing a really cool looking pattern of fire spreading across the underside of a ceiling on the ride [Escape from Pompeii](https://en.wikipedia.org/wiki/Escape_from_Pompeii) and was hoping to get something like that under the angled roof as well as hopefully directing some flames to flow out through a radiating set of fire tubes. That didn't quite work, but it was still very cool.
+
+I know realize that the pattern of slow spreading cellular flames coming from propane that I saw on the ride are very different than the fast moving vertical flames of a large wood fire. And the sheer volume of flow hitting that surface was way too much for those piddly little 3 sided flame tubes to do much. I don't think I'll get that cellular pattern with a bonfire, but I can play more with having fire tubes direct flames out from a central chamber.
+
+
+
 > [!tip]- More Photos
 > ![[IMG_20250620_162006_725.jpg]]
 > ![[IMG_20250620_172004_188_blurred.jpg]]
