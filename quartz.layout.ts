@@ -41,7 +41,7 @@ export const defaultContentPageLayout: PageLayout = {
     )
   ],
   right: [
-    Component.Graphb({
+    Component.Graph({
       localGraph: {
         drag: true, // whether to allow panning the view around
         zoom: true, // whether to allow zooming in and out
