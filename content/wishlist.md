@@ -33,9 +33,6 @@ In order of cost (low to high)
 	- Super useful little guy for safely dispensing small amounts of solvents rather than taking the cap off a larger container. I would use it for acetone. Again, pricey for what it is, but people who have them love how useful they are. Worth it if you use it a lot, and I would.
 - [JetKVM](https://jetkvm.com/products/jetkvm) ($89)
     - This would be really handy for remote controlling computers. I can think of at least 3 ways I'd use it off the top of my head. If it proves as useful as I think it is, I may end up wanting a few.
-- [Akai Professional MPK Mini Play3 25-key Portable Keyboard and MIDI Controller](https://www.sweetwater.com/store/detail/MPKminiPlay3--akai-professional-mpk-mini-play3-25-key-portable-keyboard-and-midi-controllers) ($129)
-    - I want to play around with a keyboard, and when I looked for models that are small, portable, battery operated, MIDI controllers, and can actually produce sound on their own with out additional hardware, and cost less than $300, it's actually just this one.
-    - Note that there are other MPK Mini models that look very similar. Only the "Play" has the build in synth + speaker.
 - [Genesis Junior Pro Plasma Globe](https://auroraplasmadesign.com/collections/junior-series-in-production/products/genesis-junior-pro-plasma-globe) ($160)
     - I LOVE plasma globes. I have owned a couple cheap ones over the years, but they always break. The most recent one breaking the day I got it. Plus, I found out that the ones you find at the store wear out quickly anyway. This one is a museum quality piece with much more sturdy glass that will last much longer. AND it comes in crazy colors I didn't even know where options! "Genesis" is definitely my favorite color combo here.
 - [Flipper Zero](https://shop.flipperzero.one/products/flipper-zero) ($199)
