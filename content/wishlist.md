@@ -14,7 +14,6 @@ Apparently I'm hard to shop for, so here's a bunch of stuff I want.
 	- I am specifically on the lookout for a small humidity gauge, like one from a humidor, to use for a Kintsugi Muro (curing box). Most of the ones I find for sale are brass colored plastic, which would work, but real brass and glass would be ideal.
 	- Barometers and thermometers are also cool
 - Pallet dismantling tools
-	- Pallet buster for disassembling pallets. Seriously, it's a pain to do with hammers and crowbars, and I end up breaking a lot of boards. The ones with the pivoting head [like this one](https://www.amazon.com/Wrecker-Breaker-Articulating-Pivot-Action-Removal/dp/B0CQ56WZ9K) seem to be the best at keeping board intact
 	- Denailer gun. It's like a nail gun, but for *denailing.* Basically, when you pull the boards apart, they have nails sticking through. You slip the long nose of the denailer over the pointy end of the nail sticking out, and hits it real hard and shoots backwards it out of the wood. WAY better than trying to hammer it out or grab it with pliers. Something like the [AirLocker AP700](https://www.amazon.com/Air-locker-professional-Nailer-Remover/dp/B003X2QM3G) seems good.
 	- Metal/nail detector wand. Yeah, like the one you see the TSA or security guards use. It's used to find nails that might still be in the pallet boards. You don't want to find those later with the saw blade.
 - Honing Guide for sharpening planer blades and chisels
@@ -26,10 +25,6 @@ Apparently I'm hard to shop for, so here's a bunch of stuff I want.
 
 # Specific Products
 In order of cost (low to high)
-- [150ml Press Type Alcohol Bottle](https://www.ebay.com/itm/305259127202) ($23-$44)
-	- I use rubbing alcohol (and other solvents) very often, but in small quantities. Opening a bottle and trying to get just enough to, say wet a cotton swap, is annoying and wasteful. Dispensers like this are perfect for getting just a tiny bit of solvent without risk of spills. 
-	- One would be great, but as of this writing, this listing offers a 3 pack for less than the cost of buying 2 individuals. That would let me have more solvent options and/or bottles in more work areas.
-	- My preferred is the tapered one labeled "Hozan" ("Pattern D" on this listing.)
 - [KNIPEX 8" TwinGrip Pliers (82 01 200)](https://www.amazon.com/KNIPEX-82-01-200-TwinGrip/dp/B097C98LCT) ($37)
     - There are so many times that being able to grip a bolt or something with the tip of the pliers would be really handy. I'd love the full 3 piece kit, but if I had to pick one, it'd be the 8".
 - [KNIPEX 7 1/4" Pliers Wrench (86 03 180)](https://www.amazon.com/KNIPEX-Tools-Pliers-Wrench-8601180/dp/B000X4KP1C0) ($58)
