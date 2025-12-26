@@ -27,7 +27,7 @@ Apparently I'm hard to shop for, so here's a bunch of stuff I want.
 In order of cost (low to high)
 - [KNIPEX 8" TwinGrip Pliers (82 01 200)](https://www.amazon.com/KNIPEX-82-01-200-TwinGrip/dp/B097C98LCT) ($37)
     - There are so many times that being able to grip a bolt or something with the tip of the pliers would be really handy. I'd love the full 3 piece kit, but if I had to pick one, it'd be the 8".
-- [KNIPEX 7 1/4" Pliers Wrench (86 03 180)](https://www.amazon.com/KNIPEX-Tools-Pliers-Wrench-8601180/dp/B000X4KP1C0) ($58)
+- [KNIPEX 7 1/4" Pliers Wrench (86 03 180)](https://www.amazon.com/Knipex-8603180-7-Inch-Pliers-Wrench/dp/B000X4KP1C) ($58)
     - I've heard many times from many sources that these are one of the most crazy useful tools in the shop. Again, more sizes would be awesome, but the 7 1/4" seem to be most people's go-to.
 - [Justrite 8oz Dispensing Can - 14004](https://www.justrite.com/dispensing-can-nonmetallic-with-brass-dispenser-valves-8-ounce-polyethylene-red-14004) ($58)
 	- Super useful little guy for safely dispensing small amounts of solvents rather than taking the cap off a larger container. I would use it for acetone. Again, pricey for what it is, but people who have them love how useful they are. Worth it if you use it a lot, and I would.
