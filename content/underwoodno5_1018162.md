@@ -1,7 +1,7 @@
 ---
 aliases:
 title: 1917 Underwood No. 5
-description:
+description: My first client typewriter restoration!
 tags:
   - projects
   - restoration
@@ -14,3 +14,4 @@ Manufactured Sept 1917
 
 My first client typewriter restoration. Details and photos coming soon.
 
+Current stage: Disassembly
