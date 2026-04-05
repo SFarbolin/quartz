@@ -1,7 +1,7 @@
 ---
 aliases:
 title: 1917 Underwood No. 5
-description: My first client typewriter restoration!
+description: My first typewriter restoration commission!
 tags:
   - projects
   - restoration
