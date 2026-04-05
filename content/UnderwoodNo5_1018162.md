@@ -7,8 +7,7 @@ tags:
   - restoration
   - typewriter
 ---
-
-[[under]]
+![[UnderwoodNo5_1018162.gif]]
 
 Serial #: 1018162
 Manufactured Sept 1917
