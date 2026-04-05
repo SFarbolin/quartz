@@ -7,7 +7,11 @@ tags:
   - restoration
   - typewriter
 ---
+
+[[under]]
+
 Serial #: 1018162
 Manufactured Sept 1917
 
-My first client typewriter restoration. Details amd photos coming soon.
+My first client typewriter restoration. Details and photos coming soon.
+
