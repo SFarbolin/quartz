@@ -1,9 +1,9 @@
 ---
 aliases:
 title: Resume
-description: Stuff I've done
+description: Stuff I've done (for money)
 tags:
 ---
 ProgressiveRC 
 **Custom Case Fabricator**
-Fabricated and built custom battery charging cases for RC helicopters/multirotors. Build power supply, charger, cooling fans, vents, liners, and sockets into rugged plastic cases for easy charging of LiPo and other types of batteries in the field.
+Fabricated custom portable electronics cases for use in hobby, film, search and rescue, and scientific applications. Modified rugged plastic cases and installed power supplies, chargers, cooling fans, vents, liners, and sockets for portable charging of multicell batteries of various chemistries.
