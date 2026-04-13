@@ -4,12 +4,11 @@ title: Typewriter Repair Apprenticeship
 description: 
 tags:
 ---
-## Week 0
 I was talking to friend of mine and they told me about this apprenticeship they did repairing old typewriters. It was at this shop in Bremerton that's been open since 1947 that had a rotating 12-week apprenticeship position. They told me about the work and suggested I might be interested. I arranged to visit the shop with them a few days later.
 
 ![[20250617_btcfrontdoor.jpg|250]]
-The shop was on the 5th floor in an unmarked office building I'd walked past many times. As soon as I saw the shop and talked to Paul and Lisa, I knew I had to be part of it. Getting paid to take apart, clean, and repair beautiful old machines, learning from experts, surrounded by the coolest collection of old machines and ephemera I've ever seen. That was Thursday May 22 nd, 2025. I started the following Tuesday, May 27th.
-# Week 1
+The shop was on the 5th floor in an unmarked office building I'd walked past many times. As soon as I saw the shop and talked to Paul and Lisa, I knew I had to be part of it. Getting paid to take apart, clean, and repair beautiful old machines, learning from experts, surrounded by the coolest collection of old machines and ephemera I've ever seen. That was Thursday May 22nd, 2025. I started the following Tuesday, May 27th.
+
 On my first day, Paul showed me my work station and presented me with my apron, hearing protection, and a small assortment of tools that would be mine to keep.
 
 ![[20250529_btcworkstation.jpg|250]]
