@@ -15,3 +15,4 @@ Manufactured Sept 1917
 My first client typewriter restoration. Details and photos coming soon.
 
 Current stage: Cleaning
+
