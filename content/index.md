@@ -24,4 +24,5 @@ Find me elsewhere:
 [Bluesky](https://bsky.app/profile/farbolin.me)    <- I use this sometimes
 [YouTube](https://www.youtube.com/makeronthemove)    <- I might upload again someday
 [Twitch](https://www.twitch.tv/makeronthemove)    <- I've done some live shop streams. Maybe I will again!
-[Instagram](https://www.instagram.com/makeronthemove/)    <- Not really using anymore, but you can look back at my nomadic days.
+["Maker" Instagram](https://www.instagram.com/makeronthemove/)    <- Not really using anymore, but you can look back at my nomadic days.
+[Personal Instagram](https://www.instagram.com/makeronthemove/) <- Mostly old doodles.
