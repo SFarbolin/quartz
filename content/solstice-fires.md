@@ -49,9 +49,11 @@ There is, of course, also a bunch of nails and miscellaneous bits left over. So 
 
 # Past Burns
 
-## Summer 
+## Litha 2026
 
-## Winter 2025
+
+
+## Yule 2025
 ![[PXL_20251222_003859395.jpg|400]]
 
 We finally ripped out a large section of the rotten old pink fence, and so the pink slats featured heavily in this burn. Some of the attendees really took to painting lots of fun details on this one. Another person brought a handful of ground spinning fireworks, so we tossed those in! It was definitely the most colorful effigy so far, both before and after setting alight.
@@ -76,7 +78,7 @@ This was a very rainy build day. So while I did dry out all the wood beforehand 
 > ![[PXL_20251222_004036086.jpg|400]]
 > ![[PXL_20251222_004154362.jpg|400]]
 
-## Summer 2025
+## Litha 2025
 ![[IMG_20250620_214159_175.jpg|400]]
 
 Because the fire tubes worked so well on the previous one, I wanted to play with the idea of redirecting the fire more. I remembered seeing a [mesmerizing pattern of flame](https://www.youtube.com/watch?v=VxVJPz3R1kw) spreading along the ceiling on the ride [Escape from Pompeii](https://en.wikipedia.org/wiki/Escape_from_Pompeii) and was hoping to get something like that under the angled "roof" in this fire. I was also hoping to direct some flames to flow out through a radiating set of fire tubes. That didn't quite work, but it was still a great fire.
@@ -98,7 +100,7 @@ The pink wood that became the forked tongue at the last minute is bits of an old
 > ![[IMG_20250620_214243_468.jpg|400]]
 > ![[IMG_20250620_214412_078_blur.jpg|400]]
 
-## Winter 2024
+## Yule 2024
 ![[PXL_20241222_054724744.jpg|400]]
 
 Our first solstice fire! You can see from the photos that we definitely did not get it lit at sunset. But it was still awesome, and I learned a lot about the process.
