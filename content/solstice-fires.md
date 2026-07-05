@@ -49,6 +49,8 @@ There is, of course, also a bunch of nails and miscellaneous bits left over. So 
 
 # Past Burns
 
+## Summer 
+
 ## Winter 2025
 ![[PXL_20251222_003859395.jpg|400]]
 
