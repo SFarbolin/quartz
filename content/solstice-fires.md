@@ -60,6 +60,8 @@ This was the most people we've had attend so far. I think it was about 40 people
 > ![[PXL_20260622_040554622.jpg]]
 > ![[PXL_20260622_040628491.jpg]]
 > ![[PXL_20260622_040717622.jpg]]
+> ![[blur1783274964708.jpg]]
+> 
 
 ## Yule 2025
 ![[PXL_20251222_003859395.jpg|400]]
