@@ -7,7 +7,7 @@ description: 2025 Summer Solstice Bonfire
 tags:
 ---
 ![[IMG_20250620_214159_175.jpg|400]]
-2025-06-20
+*2025-06-20*
 
 Because the fire tubes worked so well on the previous one, I wanted to play with the idea of redirecting the fire more. I remembered seeing a [mesmerizing pattern of flame](https://www.youtube.com/watch?v=VxVJPz3R1kw) spreading along the ceiling on the ride [Escape from Pompeii](https://en.wikipedia.org/wiki/Escape_from_Pompeii) and was hoping to get something like that under the angled "roof" in this fire. I was also hoping to direct some flames to flow out through a radiating set of fire tubes. That didn't quite work, but it was still a great fire.
 
@@ -26,3 +26,5 @@ The pink wood that became the forked tongue at the last minute is bits of an old
 ![[IMG_20250620_214148_173.jpg|400]]
 ![[IMG_20250620_214243_468.jpg|400]]
 ![[IMG_20250620_214412_078_blur.jpg|400]]
+
+*Check out the other [[solstice-fires|Solstice Fires]] we've done.*
