@@ -50,7 +50,8 @@ There is, of course, also a bunch of nails and miscellaneous bits left over. So 
 # Past Burns
 
 ## Litha 2026
-![[PXL_20260622_040658141.jpg]]
+![[PXL_20260622_040658141.jpg|400]]
+
 First fire at the new house! I mowed a large clearing into the overgrown field and hosed down the area for safety. Which was a good because this one ended up being pretty big! I try to keep the summer fires smaller than winter because it gets so dry. We had the hose at the ready, but had no issues at all.
 
 This was the most people we've had attend so far. I think it was about 40 people. Lots of collaboration on the build, especially towards the end. Lots of contributions too. Screenplays, love letters, journals, photos, and more.
