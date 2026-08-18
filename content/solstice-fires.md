@@ -2,6 +2,7 @@
 aliases:
   - Solstice Bonfires
   - Solstice Fires
+  - Solstice Bonfire
 title: Solstice Bonfires
 description: Big burning sculptures to celebrate the longest and shortest days of the year.
 tags:
@@ -112,7 +113,8 @@ The pink wood that became the forked tongue at the last minute is bits of an old
 > ![[IMG_20250620_214243_468.jpg|400]]
 > ![[IMG_20250620_214412_078_blur.jpg|400]]
 
-
+## [[2024_yule|Yule 2024]]
+![[PXL_20241222_054724744.jpg|400]]
 
 [^1]: I do think the [Wheel of the Year](https://en.wikipedia.org/wiki/Wheel_of_the_Year) is a cool way to acknowledge and get in tune with the changing seasons, though.
 [^2]: Of course, I mean "weirdos" lovingly. I'm a weirdo, and if you've been invited to one of our fires, you probably are too. I love that about you! 
