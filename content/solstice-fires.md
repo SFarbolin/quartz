@@ -112,21 +112,6 @@ The pink wood that became the forked tongue at the last minute is bits of an old
 > ![[IMG_20250620_214243_468.jpg|400]]
 > ![[IMG_20250620_214412_078_blur.jpg|400]]
 
-## Yule 2024
-![[PXL_20241222_054724744.jpg|400]]
-
-Our first solstice fire! You can see from the photos that we definitely did not get it lit at sunset. But it was still awesome, and I learned a lot about the process.
-
-During the build, I realized that the fire would shoot up the middle and the wings would probably fall off, unburnt. So I added a "fire tube" made from pallet slats to each wing. These projected into the body with openings facing downwards to catch some rising flames and redirect them out to the wings. You can see these in the second photo below. (The one with my [[kei-truck|Kei Truck]] under the green canopy.) These fire tubes actually worked really well, and you can see fire shooting out of them in the photo above (and the last one below).
-
-The wings were still the last part to burn, but I learned that I can sculpt the path of the flames.
-> [!tip]- More Photos
-> ![[PXL_20241218_234012682.jpg|400]]
-> ![[PXL_20241220_232444269.jpg|400]]
-> ![[PXL_20241222_025223251.jpg|400]]
-> ![[PXL_20241222_054259577.NIGHT.jpg|400]]
-> ![[PXL_20241222_054659475.jpg|400]]
-
 
 
 [^1]: I do think the [Wheel of the Year](https://en.wikipedia.org/wiki/Wheel_of_the_Year) is a cool way to acknowledge and get in tune with the changing seasons, though.
