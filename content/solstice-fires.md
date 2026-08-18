@@ -49,6 +49,7 @@ During cleanup, some charcoal is collected from each fire to be added to the nex
 There is, of course, also a bunch of nails and miscellaneous bits left over. So after each fire, I thoroughly sweep the burn area with a floor magnet until I can pass over the whole area without anything sticking to it. I use my truck in the field sometimes, and I don't want any surprise nails in my tires. This process is actually pretty fun because, as I sift through the pile I get to find all kinds of cool looking bits that survived the blaze. By the time I'm done, it looks like [[PXL_20251223_212513248.jpg|this.]]
 
 # Past Burns
+*Litha = Summer Soltice, Yule = Winter Solstice*
 ## [[2026-litha|Litha 2026]]
 ![[PXL_20260622_040658141.jpg|200]]
 ## [[2025-yule|Yule 2025]]

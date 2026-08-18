@@ -9,7 +9,7 @@ tags:
 ![[IMG_20250620_214159_175.jpg|400]]
 *2025-06-20*
 
-Because the fire tubes worked so well on the previous one, I wanted to play with the idea of redirecting the fire more. I remembered seeing a [mesmerizing pattern of flame](https://www.youtube.com/watch?v=VxVJPz3R1kw) spreading along the ceiling on the ride [Escape from Pompeii](https://en.wikipedia.org/wiki/Escape_from_Pompeii) and was hoping to get something like that under the angled "roof" in this fire. I was also hoping to direct some flames to flow out through a radiating set of fire tubes. That didn't quite work, but it was still a great fire.
+Because the fire tubes worked so well on the [[2024-yule|previous one]], I wanted to play with the idea of redirecting the fire more. I remembered seeing a [mesmerizing pattern of flame](https://www.youtube.com/watch?v=VxVJPz3R1kw) spreading along the ceiling on the ride [Escape from Pompeii](https://en.wikipedia.org/wiki/Escape_from_Pompeii) and was hoping to get something like that under the angled "roof" in this fire. I was also hoping to direct some flames to flow out through a radiating set of fire tubes. That didn't quite work, but it was still a great fire.
 
 I now realize that the pattern of slow spreading cellular flames coming from propane that I saw on the ride are very different than the fast moving vertical flames of a large wood fire. And the sheer volume of flow hitting that surface was way too much for the piddly little 3 sided flame tubes to do much. It was like a waterfall hitting a fountain designed for a gentle trickle. I don't think I'll get that cellular pattern with a bonfire, but I can play more with having fire tubes direct flames out from a central chamber.
 
