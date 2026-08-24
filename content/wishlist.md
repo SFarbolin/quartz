@@ -39,8 +39,6 @@ In order of cost (low to high)
     - [Wifi Dev Board](https://shop.flipperzero.one/products/wifi-devboard) ($35)
     - [Silicone Case](https://shop.flipperzero.one/products/flipper-silicone-case) ($15)
     - [Screen Protectors](https://shop.flipperzero.one/products/screen-protector-for-flipper-zero) ($7.50)
-- [DeWalt 20V 16 Ga. Cordless Finish Nailer (DCN662B)](https://www.acehardware.com/departments/tools/fastening-tools/power-nailers/2015629) ($400) On sale at Ace for $330 as of 12/6/25)
-	- I have a pneumatic 16 Ga. finish nailer that I use a lot. But boy would I love to not have to be tethered to the air compressor. Especially when building the solstice bonfires. Or having to snake the hose up from the shop through the house to install trim or whatever. Another pricey one, but I'd use it.
 - [Foredom SR Motor Universal Kit](https://www.foredom.net/product/k-2272-universal-application-kit-sr-motor-foot-control-and-h-30-handpiece/) ($546.36)
     - Flex shaft tools are CRAZY useful. I have a crappy old dremel flex shaft that I use all the time. For years though, I've dreamed of having a PROPER flex shaft rotary tool hanging by my desk rather than unpacking the tangled mess of that Dremel and having to set the speed manually. The Foredom SR is the one all the others are cheap imitations of. It has a foot pedal so that I can have both hands to hold the tool and the work piece and not have to worry about the DANG DREMEL rolling off the table again. This is one of those "yeah, it's pricey, but it's a proper tool that I'd use a lot, and it'd be safer than the shitty one I use now, so it's worth it" things.
 - [Sawstop CTS Compact Table Saw](https://www.sawstop.com/product/compact-table-saw/) ($899)
