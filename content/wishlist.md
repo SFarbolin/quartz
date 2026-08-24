@@ -47,3 +47,5 @@ In order of cost (low to high)
 	- Table saws are really useful, but terrifying. I have one that is okay, but I avoid using it because it scares me. SawStop is the only company that makes a saw that can detect contact with your skin and instantly retract the blade. That means it's nearly impossible for this thing to cut off a finger. It's amazing tech, and I would really prefer to have a saw with that feature. It's also apparently just a very nice table saw.
 - [Bridgestone Winter Driving School](https://winterdrive.com) ($1535-3825)
 	- I've heard good things about these classes. I want to take performance driving classes, and apparently doing it on ice is like a slow motion version of a lot of the same principles that apply to pavement driving, allowing much more control and understanding of the dynamics at play.
+- [Nesher L880 Electric Wheel Loader](https://www.nesherequipment.com/store/p/l880-electric-wheel-loader) ($15,850)
+	- I mean, c'mon! It would be so useful!
